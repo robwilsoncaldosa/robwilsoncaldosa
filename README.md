@@ -33,7 +33,6 @@ I'm a passionate developer focused on building beautiful and functional web appl
 ### 🛠️ Tech Stack
 
 <div align="center">
-  
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
@@ -58,28 +57,36 @@ I'm a passionate developer focused on building beautiful and functional web appl
 
 ### 📈 GitHub Stats
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://github.com/robwilsoncaldosa">
-    <img src="https://streak-stats.demolab.com/?user=robwilsoncaldosa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-  <br/>
-</div>
-<div style="display: flex; justify-content: center; align-items: center;gap: 1rem;">
-
-  <a href="https://github.com/robwilsoncaldosa">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=robwilsoncaldosa&theme=tokyonight" alt="Profile Summary Stats" />
-  </a>
-  <br/>
-  <a href="https://github.com/robwilsoncaldosa">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=robwilsoncaldosa&theme=tokyonight" alt="Repos Per Language" />
-  </a>
-  <br/>
-</div>
-<div style="display: flex; justify-content: center; align-items: center;gap: 1rem;">
-
-  <a href="https://github.com/robwilsoncaldosa">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=robwilsoncaldosa&theme=tokyonight" alt="Most Commit Language" />
-  </a>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/robwilsoncaldosa">
+          <img width="420" src="https://streak-stats.demolab.com/?user=robwilsoncaldosa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/robwilsoncaldosa">
+          <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=robwilsoncaldosa&theme=tokyonight" alt="Profile Summary Stats" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/robwilsoncaldosa">
+          <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=robwilsoncaldosa&theme=tokyonight" alt="Repos Per Language" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/robwilsoncaldosa">
+          <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=robwilsoncaldosa&theme=tokyonight" alt="Most Commit Language" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  <p>
+    <em>Cards are served as SVG and auto-scale. Widths set for clean two-column layout.</em>
+  </p>
 </div>
 
 
