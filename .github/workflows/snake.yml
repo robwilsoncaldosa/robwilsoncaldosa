@@ -16,17 +16,28 @@ on:
 
 jobs:
   generate:
+    concurrency:
+      group: snake-${{ github.ref }}
+      cancel-in-progress: true
     permissions: 
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
     
     steps:
+      - name: Validate inputs
+        run: |
+          echo "Repository: ${{ github.repository }}"
+          echo "Owner: ${{ github.repository_owner }}"
+          if [ -z "${{ github.repository_owner }}" ]; then
+            echo "GITHUB_REPOSITORY_OWNER is empty" >&2
+            exit 1
+          fi
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: robwilsoncaldosa
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark

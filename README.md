@@ -60,11 +60,23 @@ I'm a passionate developer focused on building beautiful and functional web appl
 
 <div align="center">
   <a href="https://github.com/robwilsoncaldosa">
-    <img src="https://github-readme-stats.vercel.app/api?username=robwilsoncaldosa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7" alt="Rob's GitHub Stats" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=robwilsoncaldosa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&cache_seconds=7200" alt="Rob's GitHub Stats" />
   </a>
   <br/>
   <a href="https://github.com/robwilsoncaldosa">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robwilsoncaldosa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7" alt="Top Languages" />
+    <img src="https://streak-stats.demolab.com/?user=robwilsoncaldosa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+  <br/>
+  <a href="https://github.com/robwilsoncaldosa">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=robwilsoncaldosa&theme=tokyonight" alt="Profile Summary Stats" />
+  </a>
+  <br/>
+  <a href="https://github.com/robwilsoncaldosa">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=robwilsoncaldosa&theme=tokyonight" alt="Repos Per Language" />
+  </a>
+  <br/>
+  <a href="https://github.com/robwilsoncaldosa">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=robwilsoncaldosa&theme=tokyonight" alt="Most Commit Language" />
   </a>
 </div>
 
